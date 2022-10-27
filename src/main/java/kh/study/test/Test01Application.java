@@ -9,6 +9,8 @@ public class Test01Application {
 	public static void main(String[] args) {
 		// 집에서 작업한 주석!!
 		SpringApplication.run(Test01Application.class, args);
+		// 2일차 강의실에서 작업
+		System.out.println("하하호호 손오빠 짱");
 	}
 
 }
